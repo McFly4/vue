@@ -6,5 +6,6 @@ export class Car {
         public year: number,
         public price: number,
         public image: string,
+        public isNew: boolean,
     ) {}
 }

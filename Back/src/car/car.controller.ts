@@ -9,9 +9,6 @@ export class CarController {
     }
 
     add(car: Car): Car {
-        // is the username empty ?
-        // is the username whitespaced ?
-        // other checks...
         return this.CarService.add(car);
     }
 

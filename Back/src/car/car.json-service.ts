@@ -23,6 +23,7 @@ export class CarJSONService implements CarService {
             car.year,
             car.price,
             car.image,
+            car.isNew,
         );
 
         cars.push(newCar);

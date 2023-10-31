@@ -1,10 +1,11 @@
 [
     {
         "id": "1",
-        "car": "BMW",
-        "model": "X5",
-        "year": "2015",
-        "price": "50000",
-        "image": "https://www.bmwusa.com/content/dam/bmwusa/XModels/M/X5/2019/BMW-X5-M-ModelCard.png"
+        "car": "Porsche",
+        "model": "911 GT3RS",
+        "year": "2023",
+        "price": "253000",
+        "image": "https://files.porsche.com/filestore/image/multimedia/none/992-gt3-rs-modelimage-sideshot/model/cfbb8ed3-1a15-11ed-80f5-005056bbdc38/porsche-model.png",
+        "isNew": "true"
     }
 ]
